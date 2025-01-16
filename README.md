@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - ✍️​ I always keep learning and improving technical, and soft skills and use them to contribute to the quality of the products.
 - 🌟 I love researching new technologies, and tools to improve the performance of testing parts.;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: scarlett.doan@outlook.com;
+- 📫 How to reach me: scarlett.phuong.doan@gmail.com;
 
 **Languages and Tools:** 
 
