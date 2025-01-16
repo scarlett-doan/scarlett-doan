@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Scarlett, a QA Specialist 🚀 from Finland.
+## Hi, I'm Phuong, a QA Specialist 🚀 from Finland.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
